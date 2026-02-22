@@ -1,0 +1,11 @@
+/SNiTE_BoBy_Vault
+├── .github/workflows/       # Automasi King-Alignment
+│   └── metadata_guard.yml   # Skrip pembersihan automatik
+├── /01_Master_Stems         # Audio 96kHz/24-bit ALAC
+│   ├── /Utara_Vocals        # Raw Gravelly Baritone Stacks
+│   └── /Seismic_Engine      # 808s & 512D Sub-elements
+├── /02_Visual_Assets        # 16k Anime 3D Renders (9:16 & 1:1)
+├── /03_Sovereign_Prompts    # Koleksi "Sealed" Prompt Producer.ai
+├── /04_Legal_Metadata       # P-Line, C-Line, & No-Training Licenses
+└── config.json              # Global System Constants (96kHz, -14 LUFS)
+
